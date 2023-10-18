@@ -1,23 +1,3 @@
-/*
-
-FICHIER TP 1 - B
-
-Auteur : Daniel Kessler
-Cours : IFT 1170
-But du Programme :
-
-- Pour les quatre phrases : les afficher, 
-les transformer en majuscules puis garder que des lettres. 
-Afficher la phrase transformee
-
-Les phrases sont :
-- "Laval"
-- "Montreal"
-- "Tu l'as trop ecrase, Cesar, ce Port Salut!"
-- "Et la marine va, papa, venir a Malte"
-
- */
-
 public class TP1B {
 	
 	
@@ -65,27 +45,3 @@ public class TP1B {
 		}	
 	}	
 }
-		
-
-/*
-
-EXECUTION :
-
-La phrase telle quelle : Laval
-La phrase transformee : LAVAL
-La phrase est palindrome
-
-La phrase telle quelle : Montreal
-La phrase transformee : MONTREAL
-La phrase n'est pas palindrome
-
-La phrase telle quelle : Tu l'as trop ecrase, Cesar, ce Port Salut!
-La phrase transformee : TULASTROPECRASECESARCEPORTSALUT
-La phrase est palindrome
-
-La phrase telle quelle : Et la marine va, papa, venir a Malte
-La phrase transformee : ETLAMARINEVAPAPAVENIRAMALTE
-La phrase est palindrome
-
- */
-
