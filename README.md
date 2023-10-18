@@ -23,3 +23,19 @@ Java program that reads country information from a file, processes it, and provi
 Employee Data Management and Analysis PROGRAM
 
 Java program that offers comprehensive functionality for processing and analyzing employee information. It introduces the Employe class with attributes like social insurance numbers, weekly salaries, and hourly rates, enabling the creation and manipulation of employee data. In TestEmploye, it showcases the program's capabilities by displaying detailed information about specific employees, modifying salaries based on calculations, and generating information for a new set of employees. Additionally, the program counts and displays statistics related to employee salaries and NAS numbers, effectively sorting and exporting the data to a text file. It effectively exemplifies Java's object-oriented features for the organized management and analysis of employee data.
+
+
+Vertical Number Display PROGRAM
+
+This Java program provides two methods to display numbers vertically: a recursive method and an iterative one. It showcases the recursive function that breaks down a given number into its digits and prints them vertically. The iterative function, on the other hand, converts the number into a string and iterates through its characters to display them vertically.
+In the main part of the program, it demonstrates both methods by applying them to the numbers 2731 and 41376. This program is designed to illustrate two different approaches for displaying numbers vertically and their application to specific numeric values.
+
+
+Vector-Based Nation Data Management PROGRAM
+
+This Java program focuses on managing and manipulating data for a collection of nations using vectors. It defines a "Nation" class with attributes for continent code, name, capital, surface area, and population. The program reads data from an external file and populates a vector with nation objects. It provides various functionalities, including displaying information for the first 15 nations, modifying nation data (e.g., changing continent, population, and removing a nation), sorting nations by name, and searching for specific nations such as Canada, Mexico, Japan, and Chile. The program showcases the power of vectors in handling and processing data for a large number of nation records in a structured and efficient manner.
+
+
+Java Nation Data Management with Linked Lists PROGRAM
+
+ThIS Java program focuses on managing and processing data related to nations using linked lists. The program reads data from an external file and populates a linked list with nation objects, emphasizing efficient data storage and manipulation. Key functionalities include displaying the contents of the list, performing a sequential search based on capital cities, sorting nations by their capital cities, and inserting a new nation record. The program demonstrates the effective use of linked lists for managing nation data in a structured and organized manner, while highlighting capabilities like searching, sorting, and data insertion.
