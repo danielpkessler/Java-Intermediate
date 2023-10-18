@@ -36,6 +36,6 @@ Vector-Based Nation Data Management PROGRAM
 This Java program focuses on managing and manipulating data for a collection of nations using vectors. It defines a "Nation" class with attributes for continent code, name, capital, surface area, and population. The program reads data from an external file and populates a vector with nation objects. It provides various functionalities, including displaying information for the first 15 nations, modifying nation data (e.g., changing continent, population, and removing a nation), sorting nations by name, and searching for specific nations such as Canada, Mexico, Japan, and Chile. The program showcases the power of vectors in handling and processing data for a large number of nation records in a structured and efficient manner.
 
 
-Java Nation Data Management with Linked Lists PROGRAM
+Nation Data Management with Linked Lists PROGRAM
 
 ThIS Java program focuses on managing and processing data related to nations using linked lists. The program reads data from an external file and populates a linked list with nation objects, emphasizing efficient data storage and manipulation. Key functionalities include displaying the contents of the list, performing a sequential search based on capital cities, sorting nations by their capital cities, and inserting a new nation record. The program demonstrates the effective use of linked lists for managing nation data in a structured and organized manner, while highlighting capabilities like searching, sorting, and data insertion.
