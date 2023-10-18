@@ -1,28 +1,3 @@
-
-/*
-
-FICHIER TP 1 - A
-
-Auteur : Daniel Kessler
-Cours : IFT 1170
-But du Programme :
-
-- Afficher le contenu des deux tableaux.
-
-- Compter et afficher : 
-a) le nombre d'operateurs
-b) le nombre d'analystes
-c) le nombre de secretaires
-d) le nombre de programmeurs consommant 3 tasses ou plus.
-
-- Calculer et afficher la consommation moyenne de cafe des programmeurs (en reel).
-
-- Determiner et afficher :
-		La consommation maximale de cafe des analystes.
-		La consommation minimale de cafe des operateurs.
-
- */
-
 public class TP1A {
 
 	// Fonction pour afficher le contenu des deux tableaux.
@@ -151,33 +126,3 @@ public class TP1A {
 	}
 
 }
-
-
-/*
-
-EXECUTION :
-
-Affichage du contenu des deux tableaux
-
-    Poste   nbCafe
-
-0)     P     3
-1)     P     1
-2)     O     4
-3)     P     0
-4)     A     4
-5)     A     2
-6)     O     2
-7)     A     5
-8)     P     1
-
-Il y a 2 operateur(s).
-Il y a 3 analyste(s).
-Il y a 0 secretaire(s).
-Il y a 1 programmeur(s) qui consomme(nt) 3 tasses de cafe ou plus.
-
-La consommation moyenne de cafe des programmeurs est de 1 tasse(s).
-La consommation maximale de cafe parmi les analystes est de 5 tasse(s).
-La consommation minimale de cafe parmi les operateurs est de 2 tasse(s).
-
-*/
